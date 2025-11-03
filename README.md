@@ -3,18 +3,17 @@
 
 <b>Discipline | <b>Computer Science
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> REC Banda
+<b> Experiment|     <b> Rotating Cylinder Apparatus
 
 ### About the Experiment 
+Allow users to virtually pour different liquids into the apparatus.
 
-Fill a brief description of this experiment here
-
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Ayush Kumar
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Rajkiya Engineering College Banda
+<b> Email id|     <b>  2407340130021@recbanda.ac.in
+<b> Department |  Information Technology
 
 ### Contributors List
 
