@@ -1,9 +1,9 @@
 ## Introduction
 
 
-<b>Discipline | <b>Computer Science
+<b>Discipline | <b>REC Banda
 :--|:--|
-<b> Lab | <b> REC Banda
+<b> Lab | <b> Virtual Lab
 <b> Experiment|     <b> Rotating Cylinder Apparatus
 
 ### About the Experiment 
