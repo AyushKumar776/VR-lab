@@ -20,9 +20,9 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 |Avneesh kumar |IT  |IT  |REC BANDA  |xyz938@gmail.com
-2 |Ayush kumar  |IT  |IT  |REC BANDA  |ak8683000@gamil.com
-3 |Chhatrasal Singh  |IT  |IT  |REC BANDA  |Chhatri@gamil.com
-4 |Dubey Anikt Dilip  |IT  |IT  |REC BANDA  |dubey@gamil.com
-5 |Gargi Singh  |IT  |IT  |REC BANDA  |gargi@gamil.com
-2 |Gyanendra Pratap |IT  |IT  |REC BANDA  |gyani000@gamil.com
+1 |Avneesh kumar |Ashutosh Tiwari  |IT  |REC BANDA  |xyz938@gmail.com
+2 |Ayush kumar  |Ashutosh Tiwari   |IT  |REC BANDA  |ak8683000@gamil.com
+3 |Chhatrasal Singh  |Ashutosh Tiwari  |IT  |REC BANDA  |Chhatri@gamil.com
+4 |Dubey Anikt Dilip  |Ashutosh Tiwari   |IT  |REC BANDA  |dubey@gamil.com
+5 |Gargi Singh  |Ashutosh Tiwari   |IT  |REC BANDA  |gargi@gamil.com
+2 |Gyanendra Pratap |Ashutosh Tiwari   |IT  |REC BANDA  |gyani000@gamil.com
