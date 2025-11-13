@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 |Avneesh kumar. |IT . |IT . |REC BANDA . |.
+2 |Ayush kumar . |IT . |IT . |REC BANDA . |ak8683000@gamil.com .
